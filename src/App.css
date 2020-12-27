@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  position: relative;
+  color: white;
+}
+
+.top {
+  position: absolute;
+  top: 8px;
+  left: 20%;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 8px;
+  left: 10%;
+}
